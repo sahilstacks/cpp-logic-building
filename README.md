@@ -19,7 +19,7 @@ Each directory contains:
 | **[Array Printing & Reversing](./array-print-and-reverse/)**  | Initialize an array and display its elements in both original and reversed order.              |
 | **[Swapping Two Numbers](./swaping-two-numbers/)**            | Implement logic to swap two integers using a temporary variable and without one.               |
 | **[Temperature Conversion](./temperature-conversion/)**       | A menu-driven program to convert temperatures between Celsius and Fahrenheit using functions.  |
-| **[Searching and Counting in an Array](./temperature-conversion/)**       | Creating an array, user-specified value and return its total frequency within a static array.  |
+| **[Searching and Counting in an Array](./search-and-count/)** | Creating an array, user-specified value and return its total frequency within a static array.  |
 ---
 
 ## 💡 Goal
